@@ -31,11 +31,11 @@ And use it to be proud of yourself. It's very important to be proud of your acco
 1. Install NodeJS.
 2. Fill in your .env file with data:
 
-DB_HOST=<db_host>
-DB_USER=<db_user>
-DB_PASSWORD=<db_password>
-DB_NAME=<db_name>
-DB_PORT=3306
+DB_HOST=<db_host> \
+DB_USER=<db_user> \
+DB_PASSWORD=<db_password> \
+DB_NAME=<db_name> \
+DB_PORT=3306 \
 
 3. Import SQL data from db_dump to your database.
 4. Run the application and have fun.
